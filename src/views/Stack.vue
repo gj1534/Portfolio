@@ -24,7 +24,7 @@
                   <tr>
                     <th scope="col" class="table-title letsp-md align-middle">Java</th>
                     <td class="align-middle">
-                      <img src="../../dist/assets/svg/java.svg" alt="Java Logo" />
+                      <img src="../assets/svg/java.svg" alt="Java Logo" />
                     </td>
                     <td>
                       기업에서 Java로 구성된 자체적인 Framework를 사용하여 개발하였습니다.
@@ -44,7 +44,7 @@
                   <tr>
                     <th scope="col" class="table-title letsp-md align-middle">JavaScript</th>
                     <td class="align-middle">
-                      <img src="../../dist/assets/svg/javascript.svg" alt="JavaScript Logo" />
+                      <img src="../assets/svg/javascript.svg" alt="JavaScript Logo" />
                     </td>
                     <td>
                       RESTFul 구조로 API를 설계하고 개발할 수 있으며 ES5 기반 코딩을 자유롭게 다룰수 있습니다.
@@ -65,7 +65,7 @@
                   <tr>
                     <th scope="col" class="table-title letsp-md align-middle">Oracle DB</th>
                     <td class="align-middle">
-                      <img src="../../dist/assets/svg/oracle.svg" alt="Oracle DB Logo" />
+                      <img src="../assets/svg/oracle.svg" alt="Oracle DB Logo" />
                     </td>
                     <td>
                       관계형 데이터베이스를 설계하고 Java를 사용하여 높은 생산성으로 API를 개발하고 있습니다
@@ -84,7 +84,7 @@
                   <tr>
                     <th scope="col" class="table-title letsp-md align-middle">Spring Framework</th>
                     <td class="align-middle">
-                      <img src="../../dist/assets/svg/spring-icon.svg" alt="Spring Logo" />
+                      <img src="../assets/svg/spring-icon.svg" alt="Spring Logo" />
                     </td>
                     <td>
                       Spring 의 각 개념과 동작원리를 이해하고 있으며, Maven, MyBatis 등 활용경험 있습니다. 
@@ -103,7 +103,7 @@
                   <tr>
                     <th scope="col" class="table-title letsp-md align-middle">Android</th>
                     <td class="align-middle">
-                      <img src="../../dist/assets/svg/android-icon.svg" alt="Android Logo" />
+                      <img src="../assets/svg/android-icon.svg" alt="Android Logo" />
                     </td>
                     <td>
                       Aphache Cordova Framework 를 통한 모바일 하이브리드 앱 개발경험이 있습니다.
@@ -122,7 +122,7 @@
                   <tr>
                     <th scope="col" class="table-title letsp-md align-middle">Node.js</th>
                     <td class="align-middle">
-                      <img src="../../dist/assets/svg/nodejs.svg" alt="Node.js Logo" />
+                      <img src="../assets/svg/nodejs.svg" alt="Node.js Logo" />
                     </td>
                     <td>
                       Node.js 는 현재 배우는 단계이며 Vue js 등을 조합하여 간단한 웹 개발 프레임워크를 구축할 수 있습니다.
@@ -141,7 +141,7 @@
                   <tr>
                     <th scope="col" class="table-title letsp-md align-middle">Vue</th>
                     <td class="align-middle">
-                      <img src="../../dist/assets/svg/vue.svg" alt="Vue Logo" />
+                      <img src="../assets/svg/vue.svg" alt="Vue Logo" />
                     </td>
                     <td>
                       Vue JS는 현재 배우는 단계이며, 이 포트폴리오 페이지 역시 Vue로 작성되었습니다.

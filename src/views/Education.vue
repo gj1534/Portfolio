@@ -11,7 +11,7 @@
         <div class="row">
           <div class="col-sm-12 col-lg-4">
             <div class="card mb-3">
-              <img src="../../dist/assets/img/bizwell.png" class="card-img-top" alt="Profile Picture" />
+              <img src="../assets/images/bizwell.png" class="card-img-top" alt="Profile Picture" />
               <div class="card-body p-4">
                 <h5 class="card-title fonsiz-xxl fonwei-kr-xl letsp-sm">(주)비즈웰</h5>
                 <p class="card-text fonsiz-sm fonwei-kr-sm color-basic-opac letsp-sm">
@@ -23,7 +23,7 @@
           </div>
           <div class="col-sm-12 col-lg-4">
             <div class="card mb-3">
-              <img src="../../dist/assets/img/choongAng.png" class="card-img-top" alt="Profile Picture" />
+              <img src="../assets/images/choongAng.png" class="card-img-top" alt="Profile Picture" />
               <div class="card-body p-4">
                 <h5 class="card-title fonsiz-xxl fonwei-kr-xl letsp-sm">중앙정보처리학원</h5>
                 <p class="card-text fonsiz-sm fonwei-kr-sm color-basic-opac letsp-sm">
@@ -35,7 +35,7 @@
           </div>
           <div class="col-sm-12 col-lg-4">
             <div class="card mb-3">
-              <img src="../../dist/assets/img/KNU.png" class="card-img-top" alt="Profile Picture" />
+              <img src="../assets/images/KNU.png" class="card-img-top" alt="Profile Picture" />
               <div class="card-body p-4">
                 <h5 class="card-title fonsiz-xxl fonwei-kr-xl letsp-sm">강원대 컴퓨터공학과</h5>
                 <p class="card-text fonsiz-sm fonwei-kr-sm color-basic-opac letsp-sm">
@@ -47,7 +47,7 @@
           </div>
           <div class="col-sm-12 col-lg-4">
             <div class="card mb-3">
-              <img src="../../dist/assets/img/JBK.png" class="card-img-top" alt="Profile Picture" />
+              <img src="../assets/images/JBK.png" class="card-img-top" alt="Profile Picture" />
               <div class="card-body p-4">
                 <h5 class="card-title fonsiz-xxl fonwei-kr-xl letsp-sm">죽변고등학교</h5>
                 <p class="card-text fonsiz-sm fonwei-kr-sm color-basic-opac letsp-sm">

@@ -9,7 +9,7 @@
         </div>
         <div class="row">
           <div class="col-lg-auto mx-auto text-center">
-            <img src="../../dist/assets/img/portfolio.jpg" class="card-img-top" alt="Profile Picture" />
+            <img src="../assets/images/portfolio.jpg" class="card-img-top" alt="Profile Picture" />
           </div>
         </div>
     </div>
